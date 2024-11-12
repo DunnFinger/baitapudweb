@@ -1,0 +1,38 @@
+.background{
+	background-color: lightblue
+}
+
+.title {
+	font-family: Lucida Handwriting , cursive;
+	margin : 15px;
+
+}
+
+h1{
+	font-family: Lucida Handwriting, cursive;
+	font-size: 500%;
+	text-align: center;
+}
+.image{
+	display: block;
+	width: 800px;
+	text-align: center;
+}
+
+p {
+	color: white;
+	font-family: Lucida Console, monospace;
+	font-size: 300%;
+	background-color: black ;
+	text-align: center;
+}
+
+h2{
+	font-family: Arial, sans-serif;
+	font-size: 150%;
+}
+
+h3{
+	font-family: Arial, sans-serif;
+	font-size: 150%;
+}
