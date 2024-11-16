@@ -3,7 +3,7 @@ body {
 }
 
 title {
-	font-family: Times New Roman, serif;
+	font-family: Palatino, serif;
 
 }
 
@@ -37,6 +37,8 @@ p {
 	font-size: 250%;
 	background-color: black ;
 	text-align: center;
+	border-radius: 10px;
+	padding: 25px;
 }
 
 button {
